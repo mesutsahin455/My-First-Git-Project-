@@ -44,4 +44,4 @@ We use 'git checkout' command  to "NAVIGATE BETWEEN THE BRANCHES CREATED BY GIT 
 
 ## git merge 
 
-We use 'git merge' command to "MERGE BRANCHES FROM Git" . 'git merge' command takes the contents of a source branch and integrates it with a target branch
+We use 'git merge' command to "MERGE BRANCHES FROM Git" . 'git merge' command takes the contents of a source branch and integrates it with a target branch.
