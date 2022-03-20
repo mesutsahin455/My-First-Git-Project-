@@ -1,6 +1,6 @@
 # My first Git Repository
 
-This is my very first repository uploaded on git. Here, I will explain Git terminology.
+This is my very first repository uploaded on git. Here, I explained Git terminology.
 
 ## git init
 
